@@ -1,0 +1,11 @@
+(librepcb_library 69f09c97-7d6f-4ca2-bbc3-c6107029c092
+ (name "FCI")
+ (description "FCI connectors (unofficial)")
+ (keywords "FCI, connector")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-08-16T22:15:07Z)
+ (deprecated false)
+ (url "https://github.com/EdizonTN/FCI.lplib")
+ (dependency 42d8d2f4-d524-4472-853b-b434e3f76b71)
+)
