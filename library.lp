@@ -1,6 +1,6 @@
 (librepcb_library 69f09c97-7d6f-4ca2-bbc3-c6107029c092
  (name "FCI")
- (description "FCI connectors (unofficial)")
+ (description "This is a unnoficial testing LibrePCB library. \nFCI connectors.")
  (keywords "FCI, connector")
  (author "EdizonTN")
  (version "0.1")

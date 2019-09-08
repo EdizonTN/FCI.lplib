@@ -1,6 +1,6 @@
 (librepcb_component 8b4aa534-1713-457d-84b4-ebf04c85b63f
- (name "Connector, Header, 2x2 - 20021111-00002T4LF")
- (description "Connector, Header, Unshrouded, 2x2, 180°, THD, Pitch:1.27mm, Serie MiniTek127")
+ (name "Connector, Header, 2x2, RM:1.27mm")
+ (description "Connector, Header, Unshrouded, 2x2, 180°, THD, Pitch:1.27mm, Serie MiniTek127\n20021111-00002T4LF")
  (keywords "")
  (author "EdizonTN")
  (version "0.1")
@@ -8,7 +8,7 @@
  (deprecated false)
  (category 4a4e3c72-94fb-45f9-a6d8-122d2af16fb1)
  (schematic_only true)
- (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (default_value "{{MPN}}")
  (prefix "CN")
  (attribute "MPN" (type string) (unit none) (value "20021111-00002T4LF"))
  (attribute "DATASHEET" (type string) (unit none) (value "http://www.farnell.com/datasheets/2374175.pdf\?_ga=2.37847715.1467244652.1567713570-1902663869.1549318603&_gac=1.41567126.1564343024.EAIaIQobChMI_6P28a_Y4wIVRud3Ch3MCg0nEAAYASAAEgJf9PD_BwE"))
